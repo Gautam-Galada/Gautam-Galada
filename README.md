@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anorak-7
-- 👀 I’m interested in machine learning and coffee
-- 🌱 I’m currently learning federated learning
-- 💞️ I’m looking to collaborate on developing multi ai platforms
+- 👀 Building "AI that matters"
+- 🌱 I’m currently learning various frameworks like OONX
+- 💞️ I’m looking to collaborate on developing multi ai platforms and build sustainable products
 - 📫 How to reach me - https://www.linkedin.com/in/gautam-galada-3367321a7/
 
 <!---
