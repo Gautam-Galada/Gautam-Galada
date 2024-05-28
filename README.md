@@ -9,6 +9,6 @@
 
 - 💬 I am ready to help you with **ML alogrithms, NLP, CV and Federated Learning based concepts**
 
-- 📫 How to reach me **galadagautam911@gmail.com**
+- 📫 How to reach me **gautamga@buffalo.edu**
 
 - ⚡ Fun fact **Build AI**
