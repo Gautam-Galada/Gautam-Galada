@@ -5,10 +5,6 @@
 
 - 👨‍💻 My projects portfolio [https://early-spark-167.notion.site/Anoraks-Portfolio-6d51f4c958be4bcc85f7555ac19a7649](https://early-spark-167.notion.site/Anoraks-Portfolio-6d51f4c958be4bcc85f7555ac19a7649)
 
-- 📝 I have written articles on [Presentation Attack Detection (FACE), Federated Learning](Presentation Attack Detection (FACE), Federated Learning)
-
-- 💬 I am ready to help you with **ML alogrithms, NLP, CV and Federated Learning based concepts**
-
 - 📫 How to reach me **gautamga@buffalo.edu**
 
 - ⚡ Fun fact **Build AI**
