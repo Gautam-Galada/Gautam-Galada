@@ -5,7 +5,7 @@
 </p>
 
 ## 🔭 Current Work
-- **Image Feature Preservation and Code Books**: Working on innovative methods to preserve and enhance image features using advanced codebooks.
+- **Interpretability**: Constructing experiments to debate on [Noam Chomsky's](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) thoughts about GPT.
 
 ## 🛠 Projects Portfolio
 - Explore my projects and their detailed narratives on [Notion](https://early-spark-167.notion.site/Anoraks-Portfolio-6d51f4c958be4bcc85f7555ac19a7649).
