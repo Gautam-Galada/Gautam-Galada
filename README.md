@@ -23,3 +23,10 @@
 
 ## ⚡ Fun Fact
 - I love building AI solutions that bridge the gap between theory and practice.
+
+## Brewing Beans
+<div align="center">
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/Gautam-Galada/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="GitHub Trends">
+  </a>
+</div>
