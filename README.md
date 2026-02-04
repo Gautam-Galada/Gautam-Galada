@@ -5,7 +5,7 @@
 </p>
 
 ## 🔭 Current Work
-- **Interpretability**: Constructing experiments to debate on [Noam Chomsky's](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) thoughts about GPT.
+- **Interpretability**: Constructing experiments
 
 ## 🎨 Featured Projects
 
