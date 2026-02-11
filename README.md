@@ -5,7 +5,7 @@
 </p>
 
 ## 🔭 Current Work
-- **Interpretability**: Constructing experiments
+- **Compression Strategies**: build semantic layers that bootstrap's itself to achieve compressions in a layer.
 
 ## 🎨 Featured Projects
 
