@@ -18,8 +18,6 @@
 
 ## 📫 How to Reach Me
 - Email: **gautamgalada1105@gmail.com**
-- [ResearchGate Profile](https://www.researchgate.net/profile/Gautam-Galada)
-- [Medium Blog](https://medium.com/@gautamgalada1105)
 
 ## ⚡ Fun Fact
 - I love building AI solutions that bridge the gap between theory and practice.
